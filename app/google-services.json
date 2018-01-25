@@ -1,0 +1,148 @@
+{
+  "project_info": {
+    "project_number": "1032990484034",
+    "firebase_url": "https://dit-1718s2-group-6.firebaseio.com",
+    "project_id": "dit-1718s2-group-6",
+    "storage_bucket": "dit-1718s2-group-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032990484034:android:ec1d15978cc8214f",
+        "android_client_info": {
+          "package_name": "mapp.com.sg.emlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032990484034-0j48v200pkva2ilnktfr16m957lca858.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGLFZ8gpKEBJozmawzO_SKwyQx5fq8g0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032990484034:android:e7614aa8fcefb513",
+        "android_client_info": {
+          "package_name": "com.example.yule.camera_test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032990484034-0j48v200pkva2ilnktfr16m957lca858.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGLFZ8gpKEBJozmawzO_SKwyQx5fq8g0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032990484034:android:09b16f6b96824268",
+        "android_client_info": {
+          "package_name": "mapp.com.sg.tabfragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032990484034-0j48v200pkva2ilnktfr16m957lca858.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGLFZ8gpKEBJozmawzO_SKwyQx5fq8g0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032990484034:android:601f067aa36b8925",
+        "android_client_info": {
+          "package_name": "com.example.yule.androidcamerasample2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032990484034-agqp84mcjh2hg5b55uf1hojn8p5f89mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yule.androidcamerasample2",
+            "certificate_hash": "a952c5bfdbf2ab6b2b117111e1e82d17ed9e68ad"
+          }
+        },
+        {
+          "client_id": "1032990484034-0j48v200pkva2ilnktfr16m957lca858.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGLFZ8gpKEBJozmawzO_SKwyQx5fq8g0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032990484034-0j48v200pkva2ilnktfr16m957lca858.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
